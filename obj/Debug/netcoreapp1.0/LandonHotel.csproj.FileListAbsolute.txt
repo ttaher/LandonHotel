@@ -1,0 +1,38 @@
+c:\users\richr\documents\visual studio 2017\Projects\LandonHotel\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.deps.json
+c:\users\richr\documents\visual studio 2017\Projects\LandonHotel\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.runtimeconfig.json
+c:\users\richr\documents\visual studio 2017\Projects\LandonHotel\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.runtimeconfig.dev.json
+c:\users\richr\documents\visual studio 2017\Projects\LandonHotel\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.dll
+c:\users\richr\documents\visual studio 2017\Projects\LandonHotel\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.pdb
+c:\users\richr\documents\visual studio 2017\Projects\LandonHotel\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.csprojResolveAssemblyReference.cache
+c:\users\richr\documents\visual studio 2017\Projects\LandonHotel\LandonHotel\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+c:\users\richr\documents\visual studio 2017\Projects\LandonHotel\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.AssemblyInfo.cs
+c:\users\richr\documents\visual studio 2017\Projects\LandonHotel\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.dll
+c:\users\richr\documents\visual studio 2017\Projects\LandonHotel\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.pdb
+C:\Users\Richard Rout\Documents\Visual Studio 2017\Projects\LandonHotel\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.deps.json
+C:\Users\Richard Rout\Documents\Visual Studio 2017\Projects\LandonHotel\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.runtimeconfig.json
+C:\Users\Richard Rout\Documents\Visual Studio 2017\Projects\LandonHotel\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.runtimeconfig.dev.json
+C:\Users\Richard Rout\Documents\Visual Studio 2017\Projects\LandonHotel\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.dll
+C:\Users\Richard Rout\Documents\Visual Studio 2017\Projects\LandonHotel\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.pdb
+C:\Users\Richard Rout\Documents\Visual Studio 2017\Projects\LandonHotel\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.csprojResolveAssemblyReference.cache
+C:\Users\Richard Rout\Documents\Visual Studio 2017\Projects\LandonHotel\LandonHotel\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+C:\Users\Richard Rout\Documents\Visual Studio 2017\Projects\LandonHotel\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.AssemblyInfo.cs
+C:\Users\Richard Rout\Documents\Visual Studio 2017\Projects\LandonHotel\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.dll
+C:\Users\Richard Rout\Documents\Visual Studio 2017\Projects\LandonHotel\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.pdb
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\bin\Debug\netcoreapp1.0\appsettings.Development.json
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\bin\Debug\netcoreapp1.0\appsettings.json
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\bin\Debug\netcoreapp1.0\bower.json
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\bin\Debug\netcoreapp1.0\bundleconfig.json
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\bin\Debug\netcoreapp1.0\Properties\launchSettings.json
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.deps.json
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.runtimeconfig.json
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.runtimeconfig.dev.json
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.dll
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\bin\Debug\netcoreapp1.0\LandonHotel.pdb
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.csprojAssemblyReference.cache
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.AssemblyInfoInputs.cache
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.AssemblyInfo.cs
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.csproj.CoreCompileInputs.cache
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.dll
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.pdb
+D:\work\training\dotnet\Ex_Files\Ex_Files_ASP_NET_Core_Dev\Exercise Files\Chapter2\02_01\Begin\LandonHotel\obj\Debug\netcoreapp1.0\LandonHotel.genruntimeconfig.cache
